@@ -1,0 +1,162 @@
+// task 1
+// function calculate(a) {
+// return Math.round(3.14 * a * a)
+// }
+//   console.log(calculate(5));
+
+
+
+
+
+//task  2
+// function ariphmetic(num){
+//     let cnt=0;
+//     let cnt2=0
+//     for( let i=num; i>0; i=Math.floor(i/10)){
+//         cnt+=i%10;
+//         cnt2++
+//     }
+//     return cnt/cnt2;
+// }
+// console.log(ariphmetic(123));
+// console.log(ariphmetic(345));
+// console.log(ariphmetic(321));
+
+
+
+
+// task 3
+// function get(a){
+//     if(a%2==0)
+//     {
+//         return a+1;
+//     }
+//     else
+//     {
+//         return a-2;
+//     }
+// }
+// console.log(get(22));
+// console.log(get(4));
+// console.log(get(3));
+  
+
+
+
+
+
+
+
+
+// task 4
+// function get(a,b){
+// if(a+b<100){
+//     return "True"
+// }
+// else
+// {
+//     return "False"
+// }
+// }
+// console.log(get(22,15));
+// console.log(get(80,35));
+// console.log(get(3,77));
+
+
+
+
+
+
+// task 5
+// function Task6(num1,num2,num3){
+//         sum1=num1*3600;
+//         sum2=num2*60;
+//         sum3=num3;
+//         if(sum1>sum2 && sum1>sum3 ){
+//             return num1
+//         } if(sum2>sum3 && sum2>sum1 ){
+//             return num2
+//         }
+//         if(sum3>sum2 && sum3>sum1 ){
+//             return num3
+//         }
+//     }
+//     console.log(Task6(1,59,3598))
+//     console.log(Task6(2, 300, 15000))
+//     console.log(Task6(15, 955, 59400))
+
+
+
+
+
+
+
+// task 6
+// function get(a,P){
+//   return P=4*a;
+// }
+// console.log(get(7));
+// console.log(get(8));
+// console.log(get(25));
+
+
+
+
+
+
+// task 7
+// function get(a,S){
+// return S=a*a;
+// }
+// console.log(get(8));
+// console.log(get(11));
+// console.log(get(6));
+
+
+
+
+
+
+// task 8
+// function get(a,b){
+// return (a+b)/2;
+// }
+// console.log(get(7,9));
+// console.log(get(8,12));
+// console.log(get(10,30));
+
+
+
+
+
+
+
+
+// task  9
+// function get(a){
+//   if(a%2==0)
+//   {
+//     return 3;
+//   }
+//   else
+//   {
+//     return 4;
+//   }
+// }
+// console.log(get(7));
+// console.log(get(12));
+// console.log(get(-8));
+
+
+
+
+
+
+
+// task 10
+// function get(x,y){
+    //  return y=17*x*x-6*x+13;
+    // }
+    // console.log(get(2));
+    // console.log(get(0));
+    // console.log(get(10));
